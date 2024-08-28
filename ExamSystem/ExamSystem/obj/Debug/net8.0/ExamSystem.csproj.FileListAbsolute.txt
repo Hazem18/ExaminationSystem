@@ -1,0 +1,14 @@
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.AssemblyInfoInputs.cache
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.AssemblyInfo.cs
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.csproj.CoreCompileInputs.cache
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.exe
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.deps.json
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.runtimeconfig.json
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.dll
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.pdb
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.dll
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\refint\ExamSystem.dll
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.pdb
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.genruntimeconfig.cache
+C:\Users\حازم\source\repos\ExamSystem\ExamSystem\obj\Debug\net8.0\ref\ExamSystem.dll
